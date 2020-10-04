@@ -254,11 +254,11 @@ nav ul li a:hover, nav ul li.active a {
 @media (max-width: 2280px) {
     nav ul {
 	
-	padding-left: 19px;
+	padding-left: 16px;
 }
 nav ul li {
 	float: left;
-	width: 17%;
+	width: 14%;
 	
 }
 nav ul li a {
@@ -267,7 +267,7 @@ nav ul li a {
 	
 	padding-bottom: 15%;
 	padding-top: 10%;
-	padding-left: 45px;
+	padding-left: 39px;
 }
 nav ul li a:hover, nav ul li.active a {
 	
@@ -285,7 +285,7 @@ nav ul li a:hover, nav ul li.active a {
         width: 29%;
         padding-top:1%;
         float:none;
-        padding-left: 250px;
+        padding-left: 300px;
     }
 	
     .banner img{

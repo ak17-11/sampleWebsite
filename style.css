@@ -244,9 +244,11 @@ nav ul li a:hover, nav ul li.active a {
 }
 	.social {
 		font-size: 125%;
+		max-width: 100%;
 	}
 	p {
 		font-size: 15px;
+		max-width: 100%;
 	}
 }
 

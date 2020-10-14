@@ -166,7 +166,7 @@ footer {
 
 @media (max-width: 768px) {
     nav ul {
-	
+	max-width:100%;
 	padding-left: 10px;
 }
 nav ul li {
